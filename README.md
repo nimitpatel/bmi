@@ -1,4 +1,5 @@
 # Simple BMI Web-App in Reactjs
+What does this web app do is it takes user input such as weight , height and computes the bmi and give information that whether you are underweight or overweight.
 
 ## Output 
 ![output](https://github.com/nimitpatel/bmi/blob/master/Images/output.png)
