@@ -1,5 +1,8 @@
 # Simple BMI Web-App in Reactjs
 
+## Output 
+![Output](https://bmi.github.com/images/output.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
