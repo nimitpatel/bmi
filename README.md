@@ -1,7 +1,7 @@
 # Simple BMI Web-App in Reactjs
 
 ## Output 
-![Output](https://github.com/nimitpatel/bmi/Images/output.png)
+<img src="https://github.com/nimitpatel/bmi/Images/output.png" /> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
